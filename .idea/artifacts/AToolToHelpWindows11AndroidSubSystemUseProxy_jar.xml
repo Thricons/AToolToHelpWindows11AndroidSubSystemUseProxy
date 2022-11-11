@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AToolToHelpWindows11AndroidSubSystemUseProxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AToolToHelpWindows11AndroidSubSystemUseProxy_jar</output-path>
+    <root id="archive" name="AToolToHelpWindows11AndroidSubSystemUseProxy.jar">
+      <element id="module-output" name="AToolToHelpWindows11AndroidSubSystemUseProxy" />
+    </root>
+  </artifact>
+</component>
